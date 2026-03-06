@@ -59,7 +59,7 @@
 ## 🚀 About Me
 
 * 📊 Data enthusiast passionate about **turning messy real-world data into clear insights and useful tools**
-* 🧠 Currently learning **Machine Learning, AI fundamentals, Linear Algebra, and statistics for data analysis**
+* 🧠 Currently learning **Machine Learning, AI fundamentals, Linear Algebra, and statistics for Data Science**
 * 🛠️ Working with **SQL, Python, Excel, Power Query, and Power BI** to build end-to-end data projects
 * 🌙 Currently building a **Sleep Tracker project** to analyze sleep patterns and behavioral trends through data
 * 🎯 Long-term goal: **Become a Data Scientist and build systems that learn from data**
