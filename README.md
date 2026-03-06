@@ -18,7 +18,7 @@
 </p>
 
 
-## 🚀 Data Analytics Skills & Toolbox
+## 🚀Skills & Toolbox
 
 ### 🗄️ Data Storage & Databases
 
