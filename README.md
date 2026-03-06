@@ -8,7 +8,7 @@
 
 
 <!-- Animated Typing Effect -->
-<h1 align="center">Hi there, I'm Arijt 👋</h1>
+<h1 align="center">Hi there, I'm Arijit 👋</h1>
 <p align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+Analysis+%7C+Visualization;Building+Projects+from+Real+World+Data" alt="Typing SVG" />
