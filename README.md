@@ -18,9 +18,9 @@
 </p>
 
 
-## 🚀Skills & Toolbox
+## Skills & Toolbox
 
-### 🗄️ Data Storage & Databases
+### Data Storage & Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-### 🧹 Data Cleaning & Transformation
+### Data Cleaning & Transformation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Data Analysis
+### Data Analysis
 
 ![Python](https://img.shields.io/badge/Python%20Analysis-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8A2BE2?style=for-the-badge)
@@ -46,7 +46,7 @@
 
 ---
 
-### 📈 Data Visualization & Reporting
+### Data Visualization & Reporting
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
@@ -56,17 +56,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 📊 Data enthusiast passionate about **turning messy real-world data into clear insights and useful tools**
-* 🧠 Currently learning **Machine Learning, AI fundamentals, Linear Algebra, and statistics for Data Science**
-* 🛠️ Working with **SQL, Python, Excel, Power Query, and Power BI** to build end-to-end data projects
-* 🌙 Currently building a **Sleep Tracker project** to analyze sleep patterns and behavioral trends through data
-* 🎯 Long-term goal: **Become a Data Scientist and build systems that learn from data**
-* ⚡ Fun fact: My deeper goal is to **use analytical thinking to better understand human behavior — including my own**
+* Data enthusiast passionate about **turning messy real-world data into clear insights and useful tools**
+* Currently learning **Machine Learning, AI fundamentals, Linear Algebra, and statistics for Data Science**
+* Working with **SQL, Python, Excel, Power Query, and Power BI** to build end-to-end data projects
+* Currently building a **Sleep Tracker project** to analyze sleep patterns and behavioral trends through data
+* Long-term goal: **Become a Data Scientist and build systems that learn from data**
+* Fun fact: My deeper goal is to **use analytical thinking to better understand human behavior — including my own**
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -75,7 +75,7 @@
 ---
 
 
-## 🌐 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/poddararijit/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/LastArijit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
