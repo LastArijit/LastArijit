@@ -39,25 +39,28 @@ Currently, I am developing a **Sleep Tracking System**, where I am designing a r
 
 | Project | Description | Tech Stack |
 |--------|------------|-----------|
-| **Sleep Tracking System** | Designed a relational database to model sleep sessions, cycles, and physiological stages, enabling structured analysis of sleep patterns and behavioral trends | SQL, Database Design, Python |
-| **Job Market Intelligence System** | Built an end-to-end data pipeline to collect, clean, and analyze job postings, extracting skills, roles, and trends, and visualizing insights through dashboards | Python, SQL, Excel, Power BI |
+| **Sleep Tracking System** | Designed a relational database to model sleep sessions, cycles, and physiological stages, enabling structured analysis of sleep patterns and behavioral trends | ProsgreSQL, Database Design|
+| **Job Market Intelligence System** | Built an anutomated end-to-end data pipeline to collect, clean, and analyze job postings, extracting skills, roles, and trends, and visualizing insights through dashboards | Python, SQLite, Power BI, n8n |
 
 ---
-
-## Work Approach
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=2E8B57&center=true&vCenter=true&width=700&lines=Clean+Data+is+the+Foundation;Structure+Enables+Understanding;Automation+Improves+Consistency;Insight+Comes+from+Clarity" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
-  <a href="mailto:arijitpoddar123@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/poddararijit/">LinkedIn</a> •
-  <a href="https://github.com/LastArijit">GitHub</a>
+  <a href="mailto:arijitpoddar123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/poddararijit/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LastArijit">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Open+to+opportunities+in+Data+Analytics;Always+interested+in+meaningful+data+work" />
 </p>
 
 ---
