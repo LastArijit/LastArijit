@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop" />
+  <img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=1600&auto=format&fit=crop" />
 </p>
 
 <h1 align="center">Arijit Poddar</h1>
