@@ -1,91 +1,38 @@
-
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" align="center" />
-
-
-</p> 
-
-
-<!-- Animated Typing Effect -->
-<h1 align="center">Hi there, I'm Arijit 👋</h1>
-<p align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+Analysis+%7C+Visualization;Building+Projects+from+Real+World+Data" alt="Typing SVG" />
-
-
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-9b6a2f1e-6c78-4c3e-9c4d-1e5d8a3a0f91.gif" width="600" />
 </p>
 
+<h1 align="center">Arijit Poddar</h1>
 
-## Skills & Toolbox
-
-### Data Storage & Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database%20Design-0A66C2?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge)
-
----
-
-### Data Cleaning & Transformation
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge\&logo=microsoft-excel\&logoColor=black)
-![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
----
-
-### Data Analysis
-
-![Python](https://img.shields.io/badge/Python%20Analysis-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8A2BE2?style=for-the-badge)
-![Exploratory Data Analysis](https://img.shields.io/badge/EDA-FF6F61?style=for-the-badge)
-
----
-
-### Data Visualization & Reporting
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Dashboarding](https://img.shields.io/badge/Dashboarding-2E8B57?style=for-the-badge)
-
----
-
-## About Me
-
-* Data enthusiast passionate about **turning messy real-world data into clear insights and useful tools**
-* Currently learning **Machine Learning, AI fundamentals, Linear Algebra, and statistics for Data Science**
-* Working with **SQL, Python, Excel, Power Query, and Power BI** to build end-to-end data projects
-* Currently building a **Sleep Tracker project** to analyze sleep patterns and behavioral trends through data
-* Long-term goal: **Become a Data Scientist and build systems that learn from data**
-* Fun fact: My deeper goal is to **use analytical thinking to better understand human behavior — including my own**
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Sleep Tracking Database](https://github.com/me50/LastArijit) | Structured relational database modeling sleep sessions, cycles, and physiological sleep stages for sleep analysis | SQL, Relational Databases, ER Modeling |
-
----
-
-
-## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/poddararijit/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/LastArijit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+Data Analyst | SQL • Python • Power BI • Excel
 </p>
 
 ---
 
+## About
 
-## ✨ Motto
+I am a data analyst focused on transforming unstructured, real-world data into structured systems that enable clear analysis and decision-making. My work sits at the intersection of data cleaning, data modeling, and analytical thinking, where the goal is not just to process data, but to understand the systems behind it.
 
-> **"Seeking truth through data, systems, and quiet curiosity."**
-> Build. Observe. Understand.
+I have worked extensively with financial and alternative asset datasets, building structured databases from fragmented sources such as firm websites, reports, and documents. This experience has strengthened my ability to interpret complex data, standardize inconsistencies, and design reliable data pipelines that improve both accuracy and efficiency. Over time, I have also developed automated workflows that reduce manual effort and allow for continuous, scalable data processing.
 
+My current focus is on building end-to-end data systems that start from raw data collection and extend through cleaning, transformation, analysis, and visualization. I am particularly interested in understanding patterns in human behavior and decision-making through data, and I approach projects with the intention of extracting not just insights, but meaningful structure.
+
+---
+
+## Current Work
+
+I am currently building a Sleep Tracking Data System, a structured analytical project designed to study sleep behavior and patterns over time. The project involves designing a relational database to model sleep sessions, cycles, and physiological stages, followed by data analysis and visualization to uncover trends in sleep quality, recovery, and behavioral impact. The goal is to create a system that moves beyond raw tracking and enables deeper understanding through data.
+
+---
+
+## Work Approach
+
+My approach to data analysis is grounded in clarity, structure, and iteration. I focus on building systems that are reproducible, scalable, and logically organized, ensuring that every step—from raw data to final output—can be understood, validated, and improved over time. Rather than treating analysis as isolated tasks, I treat it as a continuous pipeline where each stage contributes to a more refined understanding of the data.
+
+---
+
+## Links
+
+GitHub: https://github.com/LastArijit  
+LinkedIn: https://www.linkedin.com/in/poddararijit/
