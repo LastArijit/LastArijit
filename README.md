@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" />
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" />
 </p>
 
 <h1 align="center">Arijit Poddar</h1>
