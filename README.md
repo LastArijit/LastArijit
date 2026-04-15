@@ -39,8 +39,8 @@ Currently, I am developing a **Sleep Tracking System**, where I am designing a r
 
 | Project | Description | Tech Stack |
 |--------|------------|-----------|
-| **Sleep Tracking System** | Designed a relational database to model sleep sessions, cycles, and physiological stages, enabling structured analysis of sleep patterns and behavioral trends | ProsgreSQL, Database Design|
-| **Job Market Intelligence System** | Built an anutomated end-to-end data pipeline to collect, clean, and analyze job postings, extracting skills, roles, and trends, and visualizing insights through dashboards | Python, SQLite, Power BI, n8n |
+| **Sleep Tracking System** | Designed a relational database to model sleep sessions, cycles, and physiological stages, enabling structured analysis of sleep patterns and behavioral trends - https://github.com/LastArijit/Sleep-Tracking-Database | ProsgreSQL, Database Design|
+| **Job Market Intelligence System** | Built an anutomated end-to-end data pipeline to collect, clean, and analyze job postings, extracting skills, roles, and trends, and visualizing insights through dashboards - https://github.com/LastArijit/Job-Market-Intelligence-System- | Python, SQLite, Power BI, n8n |
 
 ---
 ## Connect
